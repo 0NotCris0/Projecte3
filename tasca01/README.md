@@ -80,5 +80,8 @@ Aquesta guia ha de ser **clara, visual i basada en captures de pantalla.**
 
 ---
 
+- [Tornar pagina principal](../README.md)
+- [Anar a la guia](guia.md)
+- [Anar al informe](informe.md)
 
 
