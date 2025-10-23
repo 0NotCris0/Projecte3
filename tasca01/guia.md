@@ -1,5 +1,9 @@
 # **Guia d'Ús Tècnica Bitwarden**
 
+
+## Instal·lació i Configuració Inicial
+**Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.**
+
 El primer que farem serà accedir a la **pàgina oficial de Bitwarden**. Un cop hi siguem, anirem a l’apartat d’**extensions** i seleccionarem la que correspongui al nostre **navegador web** (com ara Chrome, Firefox o Edge). Finalment, farem clic a **“Afegir al navegador”** per instal·lar l’extensió i començar a utilitzar-la.
 
 ![Chicos encediendo SAI](img/1.png)
@@ -32,6 +36,9 @@ Així és com es veu la **versió d’extensió del navegador**, que ens permet 
 
 ![Chicos encediendo SAI](img/25.png)
 
+## Generació de Contrasenyes Segures
+**Explicació de com utilitzar el generador de contrasenyes de l'eina** (paràmetres, longitud, caràcters especials).
+
 Per **crear una nova contrasenya o compte** per protegir el nostre **Gmail** (o qualsevol altre servei), haurem de fer clic al botó **“+”** situat a la part inferior i, tot seguit, seleccionar l’opció **“Entrada”** per afegir les dades del nou compte.  
 
 ![Chicos encediendo SAI](img/9.png)
@@ -43,6 +50,8 @@ Quan ens aparegui aquesta finestra, hi posarem el **nom de la pàgina o aplicaci
 Fem clic a l’**icona de generar contrasenya**, i a continuació podem ajustar la **longitud** de la contrasenya. També podem seleccionar si volem incloure **majúscules, minúscules, números i caràcters especials**, així com establir el **mínim de caràcters numèrics i especials** que ha de tenir.  
 
 ![Chicos encediendo SAI](img/10.png)
+
+## Exemples d'Ús i Emplenament Automàtic
 
 Després, si volem que l’extensió **ompli automàticament la contrasenya** quan accedim a la pàgina, hem d’introduir la **URL del lloc web** on es demana la contrasenya. Tot i això, també hi ha **altres maneres** de configurar-ho; ara mateix veurem aquesta opció.  
 
@@ -71,6 +80,8 @@ Finalment, fem clic a **“Guardar”** per desar el nou compte a Bitwarden i as
 Ara, quan vulguem **iniciar sessió** en aquest lloc web, Bitwarden ens mostrarà **automàticament les credencials** guardades, permetent omplir-les amb un sol clic sense haver-les d’introduir manualment.  
 
 ![Chicos encediendo SAI](img/18.png)
+
+## Gestió de Còpies de Seguretat (Backup)
 
 Finalment, anirem a l’apartat per veure com **exportar les contrasenyes**, de manera que puguem **guardar-les com una còpia de seguretat** en un emmagatzematge xifrat. El primer que hem de fer és fer clic a **“Arxius”** per començar el procés.  
 
