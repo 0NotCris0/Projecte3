@@ -106,3 +106,6 @@ Després, per **confirmar l’exportació**, hem d’introduir la nostra **clau 
 Finalment, guardem l’arxiu on vulguem; tot i això, **és més segur desar-lo en un USB xifrat** per protegir la còpia de seguretat davant de possibles accesos no autoritzats.  
 
 ![Chicos encediendo SAI](img/24.png)
+
+- [Anar al informe](informe.md)
+- [Tornar al enunciat](informe.md)
