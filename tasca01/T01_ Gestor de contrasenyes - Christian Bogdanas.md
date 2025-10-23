@@ -2,27 +2,9 @@
 
 2n \- GM Sistemes microinformàtics i xarxes B Seguretat informàtica (B) \- (Classe) \- 25-26
 
-**Índex**
+# **Informe tècnic — Avaluació i justificació de l’ús d’un gestor de contrasenyes** 
 
-[Informe tècnic — Avaluació i justificació de l’ús d’un gestor de contrasenyes	3](#informe-tècnic-—-avaluació-i-justificació-de-l’ús-d’un-gestor-de-contrasenyes)
-
-[Introducció i Justificació	3](#introducció-i-justificació)
-
-[Comparativa tècnica detallada: Bitwarden vs KeePassXC	4](#comparativa-tècnica-detallada:-bitwarden-vs-keepassxc)
-
-[Avantatges i Inconvenients	6](#avantatges-i-inconvenients)
-
-   [Model Online – Bitwarden (núvol / self-host)	6](#model-online-–-bitwarden-\(núvol-/-self-host\))
-
-   [Model Offline – KeePassXC (fitxer local KDBX)	6](#model-offline-–-keepassxc-\(fitxer-local-kdbx\))
-
-[Recomanació	7](#recomanació)
-
-   [Justificació de la decisió	7](#justificació-de-la-decisió)
-
-# **Informe tècnic — Avaluació i justificació de l’ús d’un gestor de contrasenyes** {#informe-tècnic-—-avaluació-i-justificació-de-l’ús-d’un-gestor-de-contrasenyes}
-
-## **Introducció i Justificació** {#introducció-i-justificació}
+## **Introducció i Justificació** 
 
 Les contrasenyes febles o reutilitzades representen un **risc crític per a la seguretat de qualsevol empresa**. Quan un usuari utilitza contrasenyes curtes, previsibles o repetides entre diferents serveis, obre la porta a diversos tipus d’atacs:
 
