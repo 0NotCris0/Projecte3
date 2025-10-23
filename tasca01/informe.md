@@ -3,6 +3,19 @@
 
 # **Informe tècnic — Avaluació i justificació de l’ús d’un gestor de contrasenyes** 
 
+## 🗂️ Índex
+
+1. [**Informe tècnic — Avaluació i justificació de l’ús d’un gestor de contrasenyes**](#informe-tècnic--avaluació-i-justificació-de-lús-dun-gestor-de-contrasenyes)  
+   1.1. [Introducció i Justificació](#introducció-i-justificació)  
+   1.2. [Comparativa tècnica detallada: Bitwarden vs KeePassXC](#comparativa-tècnica-detallada-bitwarden-vs-keepassxc)  
+   1.3. [Avantatges i Inconvenients](#avantatges-i-inconvenients)  
+   &nbsp;&nbsp;&nbsp;&nbsp;• [Model Online – Bitwarden (núvol / self-host)](#model-online--bitwarden-núvol--self-host)  
+   &nbsp;&nbsp;&nbsp;&nbsp;• [Model Offline – KeePassXC (fitxer-local-kdbx)](#model-offline--keepassxc-fitxer-local-kdbx)  
+   1.4. [Recomanació](#recomanació)  
+   &nbsp;&nbsp;&nbsp;&nbsp;• [Justificació de la decisió](#justificació-de-la-decisió)
+
+
+
 ## **Introducció i Justificació** 
 
 Les contrasenyes febles o reutilitzades representen un **risc crític per a la seguretat de qualsevol empresa**. Quan un usuari utilitza contrasenyes curtes, previsibles o repetides entre diferents serveis, obre la porta a diversos tipus d’atacs:
