@@ -9,6 +9,9 @@ Un miracle digne d’estudi.
 
 ---
 
+ - [tasca01](tasca01)
+
+
 ## 🧩 El repte
 
 El primer projecte va ser un èxit.  
