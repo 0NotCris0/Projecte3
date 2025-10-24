@@ -19,11 +19,13 @@ Un miracle digne d’estudi.
  - [tasca08](tasca08)
  - [tasca09](tasca09)
  - [tasca10](tasca10)
- - [producte01](tproducte01)
- - [producte02](tproducte02)
- - [producte03](tproducte03)
- - [producte04](tproducte04)
-  - [producte01](tproducte01)
+ - [producte01](producte01)
+ - [producte02](producte02)
+ - [producte03](producte03)
+ - [producte04](producte04)
+  - [producte05](producte05)
+  - [producte06](producte06)
+  - [producte07](producte07)
 
 ## 🧩 El repte
 
