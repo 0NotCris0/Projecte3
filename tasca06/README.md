@@ -133,3 +133,7 @@ Les explicacions relacionades
 
 Les proves de resolució local
 
+- [Tornar pagina principal](../README.md)
+- [Anar a la guia](guia.md)
+
+
