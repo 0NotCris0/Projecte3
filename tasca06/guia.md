@@ -3,7 +3,7 @@
 * **Comanda 1: Consulta Bàsica de Registre A**  
   * Executa dig xtec.cat A
 
-![][image1]
+![](img/1.png)
 
 * Anàlisi: Identifica la IP de resposta, el valor TTL i el servidor que ha respost a la consulta.
 
@@ -13,7 +13,7 @@ L’**adreça IP de resposta** és **83.247.151.214**, i el **servidor que ha re
 * **Comanda 2: Consulta de Servidors de Noms (NS)**  
   * Executa dig tecnocampus.cat NS
 
-![][image2]
+![](img/2.png)
 
 * Anàlisi: Quins són els servidors de noms autoritatius per a aquest domini?
 
@@ -22,7 +22,7 @@ L’**adreça IP de resposta** és **83.247.151.214**, i el **servidor que ha re
 * **Comanda 3: Consulta Detallada SOA**  
   * Executa dig escolapia.cat SOA
 
-![][image3]
+![](img/3.png)
 
 * Anàlisi: Quina és la informació del correu de l'administrador i el número de sèrie del domini?
 
@@ -33,7 +33,7 @@ Aquestes dades formen part del **registre SOA (Start of Authority)**, que indica
 * **Comanda 4: Consulta resolució inversa**  
   * Executa comanda dig \-x 147.83.2.135
 
-![][image4]
+![](img/4.png)
 
 * Anàlisi: Quina informació sobre els registres s’obté?
 
@@ -45,7 +45,7 @@ Podem veure **tots els noms de domini associats amb aquella adreça IP**.
 
 L’eina nslookup es troba a pràcticament a qualsevol sistema operatiu. Es pot usar de forma similar a dig incloent l’argument o si s’executa nslookup sense arguments, entrar en el mode interactiu, us apareix un prompt (\>). Serà aquest mode el que explorareu . 
 
-![][image5]
+![](img/7.png)
 
 El mode és força senzill, bàsicament hi ha tres comandes a usar:
 
@@ -55,7 +55,7 @@ El mode és força senzill, bàsicament hi ha tres comandes a usar:
 * **Comanda 1: Consulta Bàsica no Autoritativa**  
   * Seleccionar *type=A* i com a domini de consulta [tecnocampus.cat](http://tecnocampus.cat)
 
-![][image6]
+![](img/5.png)
 
 * Anàlisi: Per què indica que la resposta és no autoritativa?
 
@@ -65,7 +65,7 @@ Perquè **el servidor que respon no és l’origen de la informació DNS**, sin�
 * **Comanda 2: Consultes autoritatives**  
   * Escriure *server IP* i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini [tecnocampus.cat](http://tecnocampus.cat)
 
-![][image7]
+![](img/6.png)
 
 * Anàlisi: Quines diferències s’observen a la resposta obtinguda amb la comanda 1?
 
