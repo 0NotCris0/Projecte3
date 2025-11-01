@@ -119,4 +119,4 @@ Després d’analitzar les dues opcions, **es recomana implantar *Bitwarden*** c
 Bitwarden és la millor opció global per a la companyia: combina **seguretat robusta, facilitat d’ús i control corporatiu**, contribuint a evitar incidents com el que ha motivat aquesta mesura i a reforçar la cultura de seguretat dins l’organització.
 
 - [Anar a la guia](guia.md)
-- [Tornar al enunciat](informe.md)
+- [Tornar al enunciat](README.md)
