@@ -108,4 +108,4 @@ Finalment, guardem l’arxiu on vulguem; tot i això, **és més segur desar-lo 
 ![guardar arxiu](img/24.png)
 
 - [Anar al informe](informe.md)
-- [Tornar al enunciat](informe.md)
+- [Tornar al enunciat](README.md)
