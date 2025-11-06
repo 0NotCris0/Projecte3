@@ -73,4 +73,5 @@ Aquesta és **una consulta autoritativa**, i per això **no apareix el missatge 
 Això passa perquè, amb la comanda, **hem consultat directament un dels servidors que gestionen oficialment el domini** `tecnocampus.cat`, és a dir, **un servidor DNS autoritatiu** que conté la informació original del domini.
 
 - [Tornar al enunciat](README.md)
+- [Anar a la activitat](activitats.md)
 
