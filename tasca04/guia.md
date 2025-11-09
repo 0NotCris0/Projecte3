@@ -29,7 +29,7 @@ Configurem el fitxer com s’indica a continuació.
 Comprovem que s’hagi actualitzat correctament:
 
 ![comrpovar domini](img/5.png)  
-![[comrpovar domini](img/6.png)
+![comrpovar domini](img/6.png)
 
 ---
 
