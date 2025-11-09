@@ -334,5 +334,5 @@ Repetim el procés amb l’altre usuari.
 ![Imatge 79](img/80.png)
 
 
-- [Tornar pagina principal](../README.md)
+- [Tornar al enunciat](README.md)
 
