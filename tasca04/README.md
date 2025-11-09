@@ -5,7 +5,7 @@
 
 **Innovatech**, una *start-up* tecnològica emergent, està experimentant un ràpid creixement i pateix un caos en la gestió dels seus usuaris i accessos.
 
--[](img/1-1.png)
+![pc amb ldap](img/1-1.png)
 
 Actualment, cada servei intern (servidor de fitxers, wiki de documentació, etc.) utilitza la seva pròpia base de dades d'usuaris i contrasenyes i, a més, als ordinadors clients s’usa autentificació local.  
 Això genera diversos problemes crítics:
