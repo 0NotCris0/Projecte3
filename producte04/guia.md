@@ -20,89 +20,89 @@
 9. Editar l’arxiu **named.conf.local** per permetre la transferència  de la zona directa als companys de l’equip.  
 10. Fer les configuracions necessàries per tenir una zona secundària del domini d’un dels companys. Forçar la transferència i comprovar el funcionament des del client.
 
-![][image1]
+![][img/1.png]
 
-![][image2]
+![][img/2.png]
 
-![][image3]
+![][img/3.png]
 
-![][image4]
+![][img/4.png]
 
-![][image5]
+![][img/5.png]
 
-![][image6]
+![][img/6.png]
 
-![][image7]
+![][img/7.png]
 
-![][image8]
+![][img/8.png]
 
-![][image9]
+![][img/9.png]
 
-![][image10]
+![][img/10.png]
 
-![][image11]
+![][img/11.png]
 
-![][image9]
 
-![][image12]
+![][img/12.png]
 
-![][image13]
+![][img/13.png]
 
-![][image14]
+![][img/14.png]
 
-![][image15]
+![][img/15.png]
 
-![][image16]
+![][img/16.png]
 
-![][image17]
+![][img/17.png]
 
-![][image18]
+![][img/18.png]
 
-![][image19]
+![][img/19.png]
 
-![][image20]
+![][img/20.png]
 
-![][image21]
+![][img/21.png]
 
-![][image22]
+![][img/22.png]
 
-![][image23]
+![][img/23.png]
 
-![][image24]
+![][img/24.png]
 
-![][image25]
+![][img/25.png]
 
-![][image26]
+![][img/26.png]
 
-![][image27]
+![][img/27.png]
 
-![][image28]
+![][img/28.png]
 
-![][image29]
+![][img/29.png]
 
-![][image30]
+![][img/30.png]
 
-![][image31]
+![][img/31.png]
 
-![][image32]
+![][img/32.png]
 
-![][image33]
+![][img/33.png]
 
-![][image34]
+![][img/34.png]
 
-![][image35]
+![][img/35.png]
 
-![][image36]
+![][img/36.png]
 
-![][image37]
+![][img/37.png]
 
-![][image38]
+![][img/38.png]
 
-![][image39]
+![][img/39.png]
 
-![][image40]
+![][img/40.png]
 
-![][image41]
+![][img/41.png]
 
-![][image42]
+![][img/42.png]
 
+![][img/43.png]
