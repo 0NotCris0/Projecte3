@@ -365,3 +365,6 @@ Get-VirtualDisk
 ![](img/60.png)
 
 ![](img/61.png)
+
+- [Tornar al enunciat](README.md)
+- [Anar a la activitat](activitats.md)
