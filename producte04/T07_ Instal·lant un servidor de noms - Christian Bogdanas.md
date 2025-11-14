@@ -1,4 +1,4 @@
-# **T07: Instal·lant un servidor de noms**
+
 
 **Accions a realitzar**
 
