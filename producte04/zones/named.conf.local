@@ -1,0 +1,40 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+zone "digicore-05.test" {
+	type master;
+	file "/etc/bind/zones/db.digicore-05.test";
+	allow-transfer {trusted;};
+};
+
+zone "4.168.192.in-addr.arpa" {
+	type master;
+	file "/etc/bind/zones/db.192.168.4";
+	allow-transfer {trusted;};
+};
+
+zone "digicore-19.test" {
+	type slave;
+	file "digicore-19.test";
+	masters {192.168.4.19;};
+
+};
+
+zone "waytoit.test" {
+	type slave;
+	file "waytoit.test";
+	masters {172.0.2.49;};
+
+};
+
+zone "digicore-26.test" {
+	type slave;
+	file "digicore-26.test";
+	masters {192.168.4.26;};
+
+};
