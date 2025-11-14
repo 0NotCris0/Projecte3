@@ -70,5 +70,5 @@ Copiar código
 
 - [Tornar pagina principal](../README.md)
 - [Anar a la guia](guia.md)
-- [Anar a la activitat](activitats.md)
+- [Anar a las zones](/zones)
 
